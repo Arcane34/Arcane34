@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Game Development
 - 🌱 I’m currently learning Haskell
 - ✅ I've learnt Python, Java, JavaScript and SQL over the years
-- 💞️ I’m looking to collaborate on anything from hackathons, coding compettions to pixel art and gamedev
+- 💞️ I’m looking to collaborate on anything from hackathons, coding competions to pixel art and gamedev
 - 📫 @arcane34 on instagram 
 
 <!---
