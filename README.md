@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aarogya Yadav (@Arcane34)
 - 👀 I’m interested in Software Development and Game Development
-- 🌱 I’m currently learning Haskell
+- 🌱 I’m currently learning Haskell and C
 - ✅ I've learnt Python, Java, JavaScript and SQL over the years
 - 💞️ I’m looking to collaborate on anything from hackathons, coding competions to pixel art and gamedev
 - 📫 @arcane34 on instagram 
