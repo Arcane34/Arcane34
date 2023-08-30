@@ -6,8 +6,10 @@
 - 📫 @arcane34 on instagram 
 
 Here are some links to projects I have worked on:
-- !(Portfolio)[https://arcane34.github.io/PortfolioWebsite/]
-- !(Shader Work)[https://arcane34.github.io/Shaders/]
+- [Portfolio](https://arcane34.github.io/PortfolioWebsite/)
+- [Shader Work](https://arcane34.github.io/Shaders/)
+
+
 
 <!---
 Arcane34/Arcane34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
